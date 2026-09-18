@@ -22,7 +22,7 @@ An interactive Streamlit dashboard for exploring retail product pricing and cate
 ## Repository Contents
 
 - `app_with_sidebar.py` — Streamlit dashboard
-- `BigMart_Sales_Analysis (1).ipynb` — companion exploratory analysis notebook
+- `retail_sales_analysis.ipynb` — companion exploratory analysis notebook
 - `Test-Set.csv` — dataset used by the dashboard
 
 ## Run Locally
